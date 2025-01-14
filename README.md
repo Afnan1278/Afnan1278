@@ -4,11 +4,9 @@ Hi 👋 My name is Muhammad Afnan
 Software Engineer
 -----------------
 
-I am a passionate software developer with more than 2 years of experience. I have a proven track record of taking ownership of end-to-end feature development, including high-level design and core code architecture. Collaborating with cross-functional teams, resolving dependencies, and managing deployment lifecycles have been key aspects of my work experience.
+I am a passionate software developer with 4 years of experience. I have a proven track record of taking ownership of end-to-end feature development, including high-level design and core code architecture. Collaborating with cross-functional teams, resolving dependencies, and managing deployment lifecycles have been key aspects of my work experience.
 
-* ✉️  You can contact me at [afnananwer2@gmail.com](mailto:afnananwer2@gmail.com)
-* ⚡  I'm experienced in MEAN and MERN stack development
-* 🧠  I'm learning Django
+* ✉️  You can contact me at [afnananwer2@gmail.com](mailto:afnananwer2@gmail.com)L
 
 ### Skills
 
